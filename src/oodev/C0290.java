@@ -1,9 +1,9 @@
 package oodev;
 
-public class C0290{
+ class C0290{
 	
 	public String name;
-///a
+//a
 	public String getName() {
 		return name;
 	}
