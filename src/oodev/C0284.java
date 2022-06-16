@@ -4,9 +4,8 @@ public class C0284 {
 	public String name;
 
 	public String getName() {
-		
-		return "name";
-		
+		//aaaa
+		return name;
 	}
 
 	public void setName(String name) {
