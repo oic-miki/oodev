@@ -4,6 +4,7 @@ public class C0284 {
 	public String name;
 
 	public String getName() {
+		//aaaa
 		return name;
 	}
 
