@@ -1,15 +1,15 @@
 package oodev;
 
-public class C0212 {
+ class C0290{
 	
 	public String name;
-	////a
+//a
 	public String getName() {
 		return name;
 	}
-	
+
 	public void setName(String name) {
 		this.name = name;
 	}
-
+	
 }
