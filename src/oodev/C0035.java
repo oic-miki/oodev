@@ -1,6 +1,7 @@
 package oodev;
 
 public class C0035 {
+	
 	public String name;
 
 	public String getName() {
