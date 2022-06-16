@@ -1,10 +1,13 @@
 package oodev;
 
-public class C0328 {
-	//a
+public class C0464 {
+	
 	public String name;
 
 	public String getName() {
+		
+		//コミット
+		
 		return name;
 	}
 
