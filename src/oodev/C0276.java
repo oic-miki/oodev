@@ -1,13 +1,10 @@
 package oodev;
 
-public class C0464 {
+public class C0276 {
 	
 	private String name;
 
 	public String getName() {
-		
-		//コミット
-		
 		return name;
 	}
 
@@ -15,4 +12,5 @@ public class C0464 {
 		this.name = name;
 	}
 	
+
 }
