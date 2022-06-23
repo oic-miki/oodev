@@ -2,7 +2,7 @@ package oodev;
 
 public class C0328 {
 	//a
-	public String name;
+	private String name;
 
 	public String getName() {
 		return name;
